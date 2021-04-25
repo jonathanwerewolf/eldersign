@@ -4,7 +4,7 @@ Personal Tiddlywiki
 $ sudo apt-get install nodejs
 2. Make sure npm installed:
 $ sudo apt-get install npm
-#. Install Tiddlywiki
+3. Install Tiddlywiki
 $ sudo npm install -g tiddlywiki
 4. Run Tiddlywiki for eldersign
 $ tiddlywiki eldersign --listen
